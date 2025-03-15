@@ -1,6 +1,6 @@
 # Scraping code in here, duh
 # importing a few Selenium modules or classes that we need to use
-# writing a function that takes website url and simply returns all the content from it
+# writing a function that takes website url and simply returns all the content from it. If using bright data we can bypass recaptcha and websites that block bots
 
 
 from bs4 import BeautifulSoup
